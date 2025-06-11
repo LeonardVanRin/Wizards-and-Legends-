@@ -1,1 +1,16 @@
-
+{
+  "id": "mysystem",
+  "title": "Wizards and Legends",
+  "description": "Welcome to Wizards & Legends, an expansive tabletop RPG system where you, the Game Master (GM), take on the role of storyteller, judge, and orchestrator of the world. This guide equips you with the tools to run your campaign, create compelling narratives, and adapt the game to your players’ choices. Unlike systems with pre-built monster stats or preset encounters, Wizards & Legends leans into creativity, granting you full control over crafting everything from enemy stats to intricate plots. Running this game can be a heavy load, but it’s also an opportunity to shape a rich, magical experience for your players.
+",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": 11,
+    "verified": 11
+  },
+  "authors": [{
+    "name": "Leonard Van Rin",
+    "url": "https://github.com/LeonardVanRin",
+    "email": "dpdk01.gr@gmail.com",
+    "discord": "leonardvanrin"
+  }],
